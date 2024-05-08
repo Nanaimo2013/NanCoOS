@@ -1,13 +1,13 @@
 // kernel.c
 
 void main() {
-    // Alternative kernel code
-    int i;
-    for (i = 0; i < 10; i++) {
-        // Print numbers from 0 to 9
+    // Print message
+    char* message = "Welcome to NansStudioOS!";
+    while (*message != '\0') {
+        // Print each character of the message
         // (Note: this is a very basic example)
-        putchar('0' + i);
-        putchar(' ');
+        putchar(*message);
+        message++;
     }
     // Infinite loop to prevent the kernel from exiting
     while (1) {}
