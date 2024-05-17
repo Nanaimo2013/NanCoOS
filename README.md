@@ -1,6 +1,6 @@
 # NanCoOS
 
-![NanCoOS Logo](https://your-image-url.com/logo.png)
+![NanCoOS Logo](https://media.discordapp.net/attachments/1221892365355188330/1241115926653571215/NanCo_logo.png?ex=664906c7&is=6647b547&hm=b89cbc2fa37d4c86ea9580d3eb619e3934a3f65655b1e038c6aae31490a89cde&=&format=webp&quality=lossless&width=1165&height=597)
 
 [![Latest Release](https://img.shields.io/github/v/release/Nanaimo2013/NanCoOS?style=for-the-badge&color=blue&label=Latest%20Release)](https://github.com/Nanaimo2013/NanCoOS/releases)
 [![Version](https://img.shields.io/github/v/tag/Nanaimo2013/NanCoOS?label=%20Version&style=for-the-badge&color=orange)](https://github.com/Nanaimo2013/NanCoOS/releases/latest)
