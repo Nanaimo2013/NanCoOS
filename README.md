@@ -2,15 +2,18 @@
 
 ![NanCoOS Logo](https://your-image-url.com/logo.png)
 
-[![Latest Release](https://img.shields.io/github/v/release/Nanaimo2013/NanCoOS?label=Latest%20Release&style=for-the-badge&color=blue)](https://github.com/Nanaimo2013/NanCoOS/releases)
+[![Latest Release](https://img.shields.io/github/v/release/Nanaimo2013/NanCoOS?style=for-the-badge&color=blue&label=Latest%20Release)](https://github.com/Nanaimo2013/NanCoOS/releases)
+[![GitHub Version](https://img.shields.io/github/manifest-json/v/Nanaimo2013/NanCoOS?style=for-the-badge&color=blue/Main)](https://github.com/Nanaimo2013/NanCoOS)
+[![Version](https://img.shields.io/github/v/release/Nanaimo2013/NanCoOS?label=Version&style=for-the-badge)](https://github.com/Nanaimo2013/NanCoOS/releases)
+[![Version](https://img.shields.io/badge/Version-$(version.txt)-blue?style=for-the-badge)](https://github.com/Nanaimo2013/NanCoOS/releases)
+[![Version](https://img.shields.io/badge/Version-$(cat version.txt)-blue?style=for-the-badge)](https://github.com/Nanaimo2013/NanCoOS/blob/main/version)
+[![GitHub license](https://img.shields.io/github/license/Nanaimo2013/NanCoOS?style=for-the-badge&color=blue)](https://github.com/Nanaimo2013/NanCoOS/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/Nanaimo2013/NanCoOS?style=for-the-badge&color=red)](https://github.com/Nanaimo2013/NanCoOS/issues)
-[![GitHub license](https://img.shields.io/github/license/Nanaimo2013/NanCoOS?style=for-the-badge&color=green)](https://github.com/Nanaimo2013/NanCoOS/blob/main/LICENSE)
-[![GitHub license](https://img.shields.io/github/license/Nanaimo2013/NanCoOS?style=for-the-badge&color=green)](https://github.com/Nanaimo2013/NanCoOS/blob/main/LICENSE.md)
 [![GitHub stars](https://img.shields.io/github/stars/Nanaimo2013/NanCoOS?style=for-the-badge&color=yellow)](https://github.com/Nanaimo2013/NanCoOS/stargazers)
 [![Downloads](https://img.shields.io/github/downloads/Nanaimo2013/NanCoOS/total?style=for-the-badge&color=blue)](https://github.com/Nanaimo2013/NanCoOS/releases)
 [![Contributors](https://img.shields.io/github/contributors/Nanaimo2013/NanCoOS?style=for-the-badge&color=orange)](https://github.com/Nanaimo2013/NanCoOS/graphs/contributors)
 [![Code Size](https://img.shields.io/github/languages/code-size/Nanaimo2013/NanCoOS?style=for-the-badge&color=blue)](https://github.com/Nanaimo2013/NanCoOS)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge)](https://github.com/Nanaimo2013/NanCoOS)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge&logo=github)](https://github.com/Nanaimo2013/NanCoOS)
 [![Maintained](https://img.shields.io/maintenance/yes/2024?style=for-the-badge&color=green)](https://github.com/Nanaimo2013/NanCoOS)
 
 ## Overview
@@ -59,9 +62,8 @@ NanCoOS is licensed under the MIT License. See the [LICENSE](LICENSE) file for m
 ## Connect with Us
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/Nanaimo2013)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nanaimo2013)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Nanaimo2013)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nanaimo2013)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nanaimo_2013)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2UpW636kyB)
 
 ---
 
